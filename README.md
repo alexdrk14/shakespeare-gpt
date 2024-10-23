@@ -111,7 +111,7 @@ model = torch.load('shakespeare_gpt_model.pt', weights_only=False)
 
 ## Acknowledgments
 
-This implementation is inspired by Andrej Karpathy and his set of [AI open-courses](https://karpathy.ai/). 
+This implementation is inspired by [Andrej Karpathy](https://github.com/karpathy) and his set of [AI open-courses](https://karpathy.ai/). 
 ## License
 
 This project is open-source and available under the MIT License.
